@@ -1,2 +1,55 @@
-# .com
-Bull terrier puppies 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JZ Bullies</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>JZ Bullies</h1>
+    <p>Healthy • Happy • Family Raised Bull Terrier Puppies</p>
+
+    <a class="button" href="https://wa.me/27683385350" target="_blank">
+        Contact Us on WhatsApp
+    </a>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="blog.html">Blog</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<section class="hero">
+    <h2>Welcome to JZ Bullies</h2>
+
+    <p>
+        We are dedicated Bull Terrier breeders committed to raising healthy,
+        happy and well-socialized puppies in a loving family environment.
+    </p>
+
+    <img src="images/family.jpg" alt="Bull Terrier Family">
+</section>
+
+<section>
+    <h2>Why Choose JZ Bullies?</h2>
+
+    <ul>
+        <li>Healthy puppies</li>
+        <li>Raised with love</li>
+        <li>Spacious outdoor environment</li>
+        <li>Well-socialized and cared for</li>
+        <li>Ongoing support for owners</li>
+    </ul>
+</section>
+
+<footer>
+    <p>© 2026 JZ Bullies</p>
+</footer>
+
+</body>
+</html>
