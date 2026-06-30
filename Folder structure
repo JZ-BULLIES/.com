@@ -1,0 +1,15 @@
+JZ-Bullies/
+│
+├── index.html
+├── gallery.html
+├── blog.html
+├── contact.html
+├── style.css
+│
+└── images/
+    ├── family.jpg
+    ├── mother.jpg
+    ├── father.jpg
+    ├── puppy1.jpg
+    ├── puppy2.jpg
+    └── puppy3.jpg
